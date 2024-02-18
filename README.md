@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daria Konstantinova</h1>
-<h3 align="center">a passionate full-stack developer</h3>
+<h3 align="center">Java Developer</h3>
 
 - 🌱 I’m currently learning **Spring Boot**
 
