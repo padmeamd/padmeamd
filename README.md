@@ -7,8 +7,9 @@
 
 <p align="left"> 
   
-Hey! I’m Daria, a proficient Java developer well-versed in C and C++. My expertise extends to front-end development, where I command HTML, CSS, and JavaScript. I specialize in crafting robust backends and visually appealing websites, ensuring a seamless fusion of functionality and design. If you seek a dedicated professional to elevate your digital projects, consider my skills and commitment to excellence.
-</p>
+Hey! I’m Daria, a proficient Java developer well-versed in C and C++. My expertise extends to front-end development, where I command HTML, CSS, and JavaScript. I specialize in crafting robust backends and visually appealing websites, ensuring a seamless fusion of functionality and design.<br>
+ If you seek a dedicated professional to elevate your digital projects, consider my skills and commitment to excellence.</p>
+
 
 <p align="left">
   💌 Contact me: dlaremetra@gmail.com 
