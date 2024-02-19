@@ -14,7 +14,7 @@ Hey! I’m Daria, a proficient Java developer well-versed in C and C++. My exper
 <p align="left">
   💌 Contact me: dlaremetra@gmail.com 
 </p>
-- 🌱 I’m currently learning **Spring Boot**
+  🌱 I’m currently learning: Spring Boot
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
