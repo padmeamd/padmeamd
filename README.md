@@ -10,13 +10,6 @@ Hey! I’m Daria, a proficient Java developer well-versed in C and C++. My exper
 <p align="left">
   💌 Contact me: dlaremetra@gmail.com ⤵️
 </p>
-
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-</p>
 - 🌱 I’m currently learning **Spring Boot**
 
 <h3 align="left">Connect with me:</h3>
