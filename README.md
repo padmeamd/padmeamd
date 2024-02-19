@@ -8,7 +8,7 @@ Hey! I’m Daria, a proficient Java developer well-versed in C and C++. My exper
 </p>
 
 <p align="left">
-  💌 Contact me: dlaremetra@gmail.com ⤵️
+  💌 Contact me: dlaremetra@gmail.com 
 </p>
 - 🌱 I’m currently learning **Spring Boot**
 
