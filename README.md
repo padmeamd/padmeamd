@@ -1,9 +1,23 @@
 <h1 align="center">Hi 👋, I'm Daria Konstantinova</h1>
 <h3 align="center">Java Developer</h3>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
+<p align="left"> 
+  
+Hey! I’m Daria, a proficient Java developer well-versed in C and C++. My expertise extends to front-end development, where I command HTML, CSS, and JavaScript. I specialize in crafting robust backends and visually appealing websites, ensuring a seamless fusion of functionality and design. If you seek a dedicated professional to elevate your digital projects, consider my skills and commitment to excellence.
+</p>
+
+<p align="left">
+  💌 Contact me: dlaremetra@gmail.com ⤵️
+</p>
+
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+</p>
 - 🌱 I’m currently learning **Spring Boot**
-
-- 📫 How to reach me **dlaremetra@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
