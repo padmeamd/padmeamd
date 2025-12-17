@@ -7,8 +7,29 @@
 
 <p align="left"> 
   
-Hey! I’m Daria, a proficient Java developer well-versed in C and C++. My expertise extends to front-end development, where I command HTML, CSS, and JavaScript. I specialize in crafting robust backends and visually appealing websites, ensuring a seamless fusion of functionality and design.<br>
- If you seek a dedicated professional to elevate your digital projects, consider my skills and commitment to excellence.</p>
+## Hi, I'm Daria 👋
+
+I'm a **Java Software Developer** specialising in **backend development**, **REST APIs**, and **data-intensive enterprise systems**.
+
+### What I work with
+- **Java & Spring Boot** – REST APIs, Spring Data JPA, validation, security basics
+- **Databases** – PostgreSQL, MySQL, MongoDB (schema design, optimisation, transactions)
+- **Architecture** – modular monoliths, clean architecture, microservices migration concepts
+- **Cloud & DevOps** – AWS (EC2, S3, IAM), Docker, CI/CD pipelines
+- **Legacy & Full-stack support** – Java EE, Servlets, JSP, JavaScript
+
+### Experience highlights
+- Led backend development of a **large-scale pension-fund management platform**
+- Improved performance and response times by **30%+** through query optimisation and refactoring
+- Re-architected a monolithic system into a **modular, scalable structure**
+- Mentored developers and owned technical decision-making
+- Built secure and reliable backend systems used in real production environments
+
+### Currently
+- MSc Computing student (UK)
+- Actively building backend, cloud and data-oriented projects
+- Open to **software engineering roles, internships and placements**
+</p>
 
 
 <p align="left">
