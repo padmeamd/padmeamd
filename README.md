@@ -1,8 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daria Konstantinova</h1>
-
-<p align="margin-top">
- <img src="https://readme-typing-svg.herokuapp.com?font=DM+Serif+Text&size=38&pause=1000&color=8633F7&random=false&width=435&lines=Java+Developer" alt="Typing SVG" />
-</p>
+<h1 align="center">Daria Konstantinova</h1>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
